@@ -1,0 +1,29 @@
+
+
+table{
+  background-color:red;
+}
+table{
+  background-color: yellow;
+}
+th{
+  background-color: red;
+}
+td{
+  color: black !important;
+}
+td{
+  color: purple;
+}
+p{
+  color: red;
+}
+p{
+  color:green;
+}
+body{
+  background-color: purple;
+}
+details{
+  color: orange;
+}
